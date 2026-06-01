@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# React Native
+android/app/build/
+ios/build/
+
+# Xcode
+DerivedData/
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
