@@ -33,3 +33,17 @@
 - memberId
 - trainerId
 - status
+
+
+users
+gyms
+equipment
+plans
+memberships
+attendance
+trainer_requests
+assessments
+workout_plans
+payments
+notifications
+reviews

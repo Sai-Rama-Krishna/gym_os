@@ -16,3 +16,17 @@ Roles:
 - Trainer
 - Gym Owner
 - Admin
+
+
+React Native
+      ↓
+NodeJS API
+      ↓
+MongoDB
+
+Cloudinary
+Firebase FCM
+
+Future:
+MediaPipe
+Razorpay

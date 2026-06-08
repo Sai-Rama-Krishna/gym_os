@@ -24,3 +24,18 @@
 ## Phase 3
 - AI Posture Analysis
 - AI Form Correction
+
+
+## Non Functional Requirements
+
+- Mobile First
+- Multi Language
+- Fast Check-in
+- Offline Friendly
+
+## Success Metrics
+
+- Registered Gyms
+- Active Members
+- Daily Check-ins
+- Membership Renewals

@@ -8,3 +8,14 @@ Register -> Discover Gym -> Join Gym -> Assessment -> Workout Plan -> QR Check-i
 
 ## Trainer
 Login -> Receive Help Requests -> Assist Member -> Complete Request
+
+
+Admin Flow
+
+Login
+↓
+Approve Gym
+↓
+Manage Users
+↓
+Manage Subscriptions
